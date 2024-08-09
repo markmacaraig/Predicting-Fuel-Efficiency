@@ -14,10 +14,11 @@ Python Packages Used:
    
 ·      Data Visualization: matplotlib, seaborn  
    
-·      Machine Learning: sklearn. 
+·      Machine Learning: sklearn   
    
-Data:    
-Auto-mpg.csv
+Data:  
+
+auto-mpg.csv
 
 Results and Evaluation: 
 Two models were generated - Ordinary Linear Regression and Polynomial Regression. The R2 results are higher while the RMSE and MAE results are lower for the Polynomial Regression Model compared to the corresponding metric values from the Linear Regression model, which indicates that the Polynomial Regression model is slightly better in the prediction of the target variable.
